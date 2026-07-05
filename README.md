@@ -4,6 +4,28 @@
 🏦 Banking Customer Intelligence Dashboard
 End-to-End Business Intelligence Solution using Power BI, Python, SQL & DAX
 
+📌 Overview
+
+This project presents a comprehensive Banking Customer Intelligence Dashboard developed using Power BI, Python, SQL, and DAX.
+
+The solution transforms raw banking customer data into meaningful business insights through interactive dashboards focusing on customer demographics, financial performance, churn analysis, and predictive customer intelligence.
+
+🚀 Tech Stack
+Technology	Purpose
+Power BI	Dashboard Development
+Power Query	Data Transformation
+DAX	KPIs & Calculations
+Python	Data Cleaning & EDA
+SQL	Business Analysis
+Git	Version Control
+📈 Dashboard Pages
+Dashboard	Description
+📊 Executive Dashboard	Business KPIs
+👥 Customer Analytics	Demographics
+💰 Financial Analysis	Balance & Credit
+📉 Churn Analysis	Customer Attrition
+🎯 Risk & Predictive Insights	Customer Segmentation
+
 # 📸 Dashboard Preview
 
 ## 📊 Executive Dashboard
@@ -34,31 +56,6 @@ End-to-End Business Intelligence Solution using Power BI, Python, SQL & DAX
 
 ![Customer Risk & Predictive Insights](images/Customer%20Risk%20%26%20Predictive%20Insights%20Dashboard.png)
 
-
-📌 Overview
-
-This project presents a comprehensive Banking Customer Intelligence Dashboard developed using Power BI, Python, SQL, and DAX.
-
-The solution transforms raw banking customer data into meaningful business insights through interactive dashboards focusing on customer demographics, financial performance, churn analysis, and predictive customer intelligence.
-
-🚀 Tech Stack
-Technology	Purpose
-Power BI	Dashboard Development
-Power Query	Data Transformation
-DAX	KPIs & Calculations
-Python	Data Cleaning & EDA
-SQL	Business Analysis
-Git	Version Control
-📈 Dashboard Pages
-Dashboard	Description
-📊 Executive Dashboard	Business KPIs
-👥 Customer Analytics	Demographics
-💰 Financial Analysis	Balance & Credit
-📉 Churn Analysis	Customer Attrition
-🎯 Risk & Predictive Insights	Customer Segmentation
-📸 Dashboard Preview
-
-We'll add screenshots here later.
 
 📌 Key KPIs
 Total Customers
