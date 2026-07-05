@@ -1,12 +1,12 @@
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-512BD4) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+                                                                                      
 
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 
-![DAX](https://img.shields.io/badge/DAX-512BD4)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+
+
 
 🏦 Banking Customer Intelligence Dashboard
 
