@@ -1,8 +1,40 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-512BD4) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-                                                                                  
+                                                                  
 🏦 Banking Customer Intelligence Dashboard
 End-to-End Business Intelligence Solution using Power BI, Python, SQL & DAX
+
+# 📸 Dashboard Preview
+
+## 📊 Executive Dashboard
+
+![Executive Dashboard](images/executive%20dashboard.png)
+
+---
+
+## 👥 Customer Analytics
+
+![Customer Analytics](images/customer%20analytics.png)
+
+---
+
+## 💰 Financial Analysis
+
+![Financial Analysis](images/financial%20analysis.png)
+
+---
+
+## 📉 Churn Analysis
+
+![Churn Analysis](images/churn%20analysis.png)
+
+---
+
+## 🎯 Customer Risk & Predictive Insights
+
+![Customer Risk & Predictive Insights](images/Customer%20Risk%20%26%20Predictive%20Insights%20Dashboard.png)
+
+
 📌 Overview
 
 This project presents a comprehensive Banking Customer Intelligence Dashboard developed using Power BI, Python, SQL, and DAX.
