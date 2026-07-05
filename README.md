@@ -4,15 +4,6 @@
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
 
-## 📑 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Features](#-features)
-- [Dashboard Preview](#-dashboard-preview)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Business Insights](#-business-insights)
-- [Skills Demonstrated](#-skills-demonstrated)
                                                                   
 🏦 Banking Customer Intelligence Dashboard
 End-to-End Business Intelligence Solution using Power BI, Python, SQL & DAX
